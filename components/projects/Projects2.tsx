@@ -9,10 +9,10 @@ import { PinContainer } from "./Pin";
 const RecentProjects = () => {
   return (
     <div className="py-20  ">
-      <h1 className="heading">
-        A small selection of{" "}
-        <span className="text-purple">recent projects</span>
-      </h1>
+      <h2 className="heading h2-bold text-center">
+        A small selection of
+        recent projects
+      </h2>
       <div className="flex flex-wrap items-center justify-center p-4 gap-16 mt-10">
         {projects.map((item) => (
           <div
