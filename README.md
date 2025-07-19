@@ -1,13 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-
-  <img src="./public/android-chrome-192x192.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Adel Guitoun</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -61,14 +51,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://www.adelguitoun.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -112,47 +94,4 @@ To run the project, execute the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
 
-👤 **Adel Guitoun**
-
-- GitHub: [@adel-gu](https://github.com/adel-gu)
-- Twitter: [@GuitounAdel](https://x.com/GuitounAdel)
-- LinkedIn: [adelguitoun](https://www.linkedin.com/in/adelguitoun/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Projects Page:** Add a dedicated page to showcase all my latest projects.
-- [ ] **Blog Page:** Include a page for sharing blogs and articles.
-- [ ] **Dynamic Dashboard:** Develop a separate application to manage and add projects and blogs dynamically.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-f you like this project, feel free to give it a star ⭐️ and share it with others!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank the developers of Next.js, TailwindCSS, ShadCN, and Magic UI for their incredible tools that made this project possible.
-This website design was inspired by the beautiful design of the [Tamagui](https://tamagui.dev/) website.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
